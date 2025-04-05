@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Searching/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/Searching/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_Queue_HashManps/CircularTour/CircularTour.iml" filepath="$PROJECT_DIR$/Stack_Queue_HashManps/CircularTour/CircularTour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMaps/CustomHash/CustomHash.iml" filepath="$PROJECT_DIR$/HashMaps/CustomHash/CustomHash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMaps/HashMaps.iml" filepath="$PROJECT_DIR$/HashMaps/HashMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/Inventory Management System/Inventory Management System.iml" filepath="$PROJECT_DIR$/LinkedList/Inventory Management System/Inventory Management System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LibraryManagement/LibraryManagement.iml" filepath="$PROJECT_DIR$/LinkedList/LibraryManagement/LibraryManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/Searching/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMaps/LongestCons/LongestCons.iml" filepath="$PROJECT_DIR$/HashMaps/LongestCons/LongestCons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/MovieManagement/MovieManagement.iml" filepath="$PROJECT_DIR$/LinkedList/MovieManagement/MovieManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/OnlineTicket/OnlineTicket.iml" filepath="$PROJECT_DIR$/LinkedList/OnlineTicket/OnlineTicket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMaps/PairSum/PairSum.iml" filepath="$PROJECT_DIR$/HashMaps/PairSum/PairSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Product_quick/Product_quick.iml" filepath="$PROJECT_DIR$/Sorting/Product_quick/Product_quick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_Queue_HashManps/QueueStack/QueueStack.iml" filepath="$PROJECT_DIR$/Stack_Queue_HashManps/QueueStack/QueueStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/Round Robin/Round Robin.iml" filepath="$PROJECT_DIR$/LinkedList/Round Robin/Round Robin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Runtime/Runtime.iml" filepath="$PROJECT_DIR$/Runtime/Runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/School_bubble/School_bubble.iml" filepath="$PROJECT_DIR$/Sorting/School_bubble/School_bubble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_Queue_HashManps/SlidingWindow/SlidingWindow.iml" filepath="$PROJECT_DIR$/Stack_Queue_HashManps/SlidingWindow/SlidingWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/SocialMedia/SocialMedia.iml" filepath="$PROJECT_DIR$/LinkedList/SocialMedia/SocialMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_Queue_HashManps/StackRecursion/StackRecursion.iml" filepath="$PROJECT_DIR$/Stack_Queue_HashManps/StackRecursion/StackRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_Queue_HashManps/Stack_Queue_HashManps.iml" filepath="$PROJECT_DIR$/Stack_Queue_HashManps/Stack_Queue_HashManps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_Queue_HashManps/StockSpan/StockSpan.iml" filepath="$PROJECT_DIR$/Stack_Queue_HashManps/StockSpan/StockSpan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/StringBB/StringBB.iml" filepath="$PROJECT_DIR$/Searching/StringBB/StringBB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/StudentRecord/StudentRecord.iml" filepath="$PROJECT_DIR$/LinkedList/StudentRecord/StudentRecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Student_counting/Student_counting.iml" filepath="$PROJECT_DIR$/Sorting/Student_counting/Student_counting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/Task Scheduler/Task Scheduler.iml" filepath="$PROJECT_DIR$/LinkedList/Task Scheduler/Task Scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMaps/TwoSum/TwoSum.iml" filepath="$PROJECT_DIR$/HashMaps/TwoSum/TwoSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/UndoFunction/UndoFunction.iml" filepath="$PROJECT_DIR$/LinkedList/UndoFunction/UndoFunction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3.iml" filepath="$PROJECT_DIR$/Week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMaps/ZeroSum/ZeroSum.iml" filepath="$PROJECT_DIR$/HashMaps/ZeroSum/ZeroSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/bookstore_Merge/bookstore_Merge.iml" filepath="$PROJECT_DIR$/Sorting/bookstore_Merge/bookstore_Merge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/company_inserton/company_inserton.iml" filepath="$PROJECT_DIR$/Sorting/company_inserton/company_inserton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/job_Heap/job_Heap.iml" filepath="$PROJECT_DIR$/Sorting/job_Heap/job_Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/university_selection/university_selection.iml" filepath="$PROJECT_DIR$/Sorting/university_selection/university_selection.iml" />
+    </modules>
+  </component>
+</project>
